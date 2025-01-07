@@ -1,8 +1,10 @@
 Hi guys~ 
 
+
 🐣 Huyen Trang | 💻 Learner | 🌏 Hanoi, Vietnam
+
 About me
-🎓 @ Information Technology @ 
+🎓 @ Information Technology @                                                                                   
 🌱 I grew up chasing grasshoppers in a small rice-farming village in YenBai😅
 💻 Software Engineer
 ⚡ Fun fact: I'm a singer and a sports player.
