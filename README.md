@@ -1,16 +1,10 @@
-## Hi there 👋
+Hi guys~ 
 
-<!--
-**Koalano1/Koalano1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
-:-->
+🐣 Huyen Trang | 💻 Learner | 🌏 Hanoi, Vietnam
+About me
+🎓 @ Information Technology @ 
+🌱 I grew up chasing grasshoppers in a small rice-farming village in YenBai😅
+💻 Software Engineer
+⚡ Fun fact: I'm a singer and a sports player.
+💭 Let's get to know each other. I'm best reached via email. I'm always open to interesting conversations and collaboration.
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
